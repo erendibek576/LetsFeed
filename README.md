@@ -6,7 +6,7 @@ Web Sitemiz Yayında! İnceleme için  [LetsFeed](https://letsfeed.iarc.io/)
 Bu web sitesi PHP ile hazırlandıktan sonra Laravel' e çevirilmiş resim işlemleri daha hızlı gerçekleştirildi ve hala geliştirilmeye devam edilmektedir.
 Yenilikler için takipte kalın!
 
-Web Sitemizin Arayüzü
+# Web Sayfamız
 
 ![LetsFeed](https://user-images.githubusercontent.com/83423497/175974323-c7de033f-80cd-48ef-9e27-accdc5190df1.png)
 
@@ -15,6 +15,10 @@ Web Sitemizin Arayüzü
 
 
 ![resim galerisi](https://user-images.githubusercontent.com/83423497/175975766-28ace7a1-6774-44c0-baaa-d5ea9d9d0967.png)
+
+# Hakkımızda Sayfası
+
+![hakkımızda](https://user-images.githubusercontent.com/83423497/175977473-29f4e7e9-5704-4e69-be04-360f4e72ae71.png)
 
 # Profil Sayfalarımız
 
