@@ -15,3 +15,22 @@ Web Sitemizin Arayüzü
 
 
 ![resim galerisi](https://user-images.githubusercontent.com/83423497/175975766-28ace7a1-6774-44c0-baaa-d5ea9d9d0967.png)
+
+#Profil Sayfalarımız
+
+![profil](https://user-images.githubusercontent.com/83423497/175976449-a1a22d1a-54d5-4f29-8c3d-5b1db8085b55.png)
+
+
+![mail](https://user-images.githubusercontent.com/83423497/175976518-70f3b662-35af-4707-b71a-ce5485dbde92.png)
+
+
+![şifre](https://user-images.githubusercontent.com/83423497/175976541-7e109939-00c4-4a6c-b153-95c36bf017b5.png)
+
+
+![profil foto](https://user-images.githubusercontent.com/83423497/175976576-45e8d454-42e5-45bc-aafc-dc10039f9f87.png)
+
+
+![yükle](https://user-images.githubusercontent.com/83423497/175976594-faec117f-88cd-421e-a444-676e8e10388d.png)
+
+
+![hesap sil](https://user-images.githubusercontent.com/83423497/175976620-acca4fc4-7822-4f6b-8494-42e57c5b334b.png)
