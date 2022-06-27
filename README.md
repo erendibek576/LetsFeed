@@ -6,6 +6,8 @@ Web Sitemiz Yayında! İnceleme için  [LetsFeed](https://letsfeed.iarc.io/)
 Bu web sitesi PHP ile hazırlandıktan sonra Laravel' e çevirilmiş resim işlemleri daha hızlı gerçekleştirildi ve hala geliştirilmeye devam edilmektedir.
 Yenilikler için takipte kalın!
 
+Bu projenin profil sayfası kısmında görev aldım. Benim için iyi bir deneyim oldu. Bootstrap ile iskelet ve tasarımı oluşturdum. Php ve JS kullanarak verileri güncelleme, sayfanın tasarım kısmında verileri getirme işlemi yaptım.
+
 # Web Sayfamız
 
 ![LetsFeed](https://user-images.githubusercontent.com/83423497/175974323-c7de033f-80cd-48ef-9e27-accdc5190df1.png)
