@@ -34,3 +34,9 @@ Web Sitemizin Arayüzü
 
 
 ![hesap sil](https://user-images.githubusercontent.com/83423497/175976620-acca4fc4-7822-4f6b-8494-42e57c5b334b.png)
+
+
+# Resim Yükleme Alanı
+
+![resim yükle](https://user-images.githubusercontent.com/83423497/175977064-7e8b0591-2f59-4d56-8823-b293dbc55da9.png)
+
