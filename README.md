@@ -50,3 +50,6 @@ Bu projenin profil sayfası kısmında görev aldım. Benim için iyi bir deneyi
 
 ![resim yükle](https://user-images.githubusercontent.com/83423497/175977064-7e8b0591-2f59-4d56-8823-b293dbc55da9.png)
 
+# Admin Paneli
+
+![admin](https://user-images.githubusercontent.com/83423497/175980376-1d426980-afbe-4c79-8c7f-537d1b8823ed.png)
